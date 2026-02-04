@@ -27,7 +27,7 @@ pi install -l github.com/Whamp/pi-compact-footer
 
 ## Screenshot
 
-![Compact footer on mobile](screenshot.png)
+coming later
 
 ## License
 
