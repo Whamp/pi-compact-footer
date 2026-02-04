@@ -1,0 +1,19 @@
+{
+  "name": "pi-compact-footer",
+  "version": "1.0.0",
+  "description": "A compact 3-line footer for pi coding agent, optimized for narrow screens and mobile devices",
+  "keywords": ["pi-package"],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Whamp/pi-compact-footer"
+  },
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-tui": "*",
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}
